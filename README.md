@@ -1,1 +1,1 @@
-My AI,Deep learning, ML, data science projects
+AI,Deep learning, ML,and data science projects
